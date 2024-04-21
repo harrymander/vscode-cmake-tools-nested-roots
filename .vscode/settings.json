@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": ["${workspaceFolder}", "${workspaceFolder}/nested"],
+    "cmake.loggingLevel": "debug",
+    "cmake.configureOnOpen": false
+}
